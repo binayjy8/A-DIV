@@ -17,3 +17,7 @@
     align-items: center;
     justify-content: center;
 }
+
+.scd:hover {
+    margin-left: 25px;
+}
